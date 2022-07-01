@@ -1,8 +1,4 @@
 # GitHub Project
 
 
-Cambio desde Visual Studio
-
-
-
-Cambio desde Github
+Cambio realizado desde GitHub en línea
